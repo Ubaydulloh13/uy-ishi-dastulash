@@ -1,0 +1,28 @@
+h1{
+    padding-top: 10px;
+height: 46px;
+ margin-top: 22px;
+ margin-left: 600px;
+ margin-right: 600px;
+    text-align: center;
+    background-color:#311313 ;
+    color: white;
+}
+body{
+    background-color: #2A5D5A;
+}
+.box{
+    width: 1000px;
+height: 53  8px;
+ margin-top: 93px;
+ margin-left: 220px;
+border:10px solid red;
+background-color: black;
+padding: 30px;
+}
+
+p{
+    font-size: 24px;
+ background-color:#1FE8B7 ;
+ padding: 50px;
+}
